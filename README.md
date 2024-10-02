@@ -35,4 +35,4 @@ This project demonstrates how to read analog sensor data using an ESP32 and send
 2. Install the [ESP32 Board Package](https://github.com/espressif/arduino-esp32).
 3. Clone this repository:
    ```bash
-   git clone [https://github.com/Iam-Madman/Sensorvalue-Blynk-ESP32]
+   git clone "https://github.com/Iam-Madman/Sensorvalue-Blynk-ESP32"
